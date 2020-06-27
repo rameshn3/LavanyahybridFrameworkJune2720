@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LinkedinSuite" duration-ms="42491" started-at="2020-06-26T16:05:13 IST" finished-at="2020-06-26T16:05:56 IST">
+    <groups>
+    </groups>
+    <test name="LinkedinTest" duration-ms="42491" started-at="2020-06-26T16:05:13 IST" finished-at="2020-06-26T16:05:56 IST">
+      <class name="com.qa.linkedin.testcases.SearchDDTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="setup" is-config="true" duration-ms="15326" started-at="2020-06-26T16:04:58 IST" finished-at="2020-06-26T16:05:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="beforeClass" is-config="true" duration-ms="16759" started-at="2020-06-26T16:05:13 IST" finished-at="2020-06-26T16:05:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="searchTest" duration-ms="5584" started-at="2020-06-26T16:05:32 IST" data-provider="searchData" finished-at="2020-06-26T16:05:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lavanya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="searchTest" duration-ms="5259" started-at="2020-06-26T16:05:37 IST" data-provider="searchData" finished-at="2020-06-26T16:05:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="searchTest" duration-ms="5136" started-at="2020-06-26T16:05:43 IST" data-provider="searchData" finished-at="2020-06-26T16:05:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="searchTest" duration-ms="4738" started-at="2020-06-26T16:05:48 IST" data-provider="searchData" finished-at="2020-06-26T16:05:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raghu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="afterClass" is-config="true" duration-ms="3156" started-at="2020-06-26T16:05:53 IST" finished-at="2020-06-26T16:05:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@f0f2775]" name="tearDown" is-config="true" duration-ms="2383" started-at="2020-06-26T16:05:57 IST" finished-at="2020-06-26T16:05:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.linkedin.testcases.SearchDDTest -->
+    </test> <!-- LinkedinTest -->
+  </suite> <!-- LinkedinSuite -->
+</testng-results>
